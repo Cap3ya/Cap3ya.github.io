@@ -52,8 +52,8 @@ ns3
 mail2
 test
 www2
-ns4
 remote
+ns4
 cloud
 admin
 support
@@ -75,6 +75,7 @@ www1
 web
 vpn2
 shop
+sftp
 office
 mailhost
 mail3
@@ -83,7 +84,6 @@ email
 demo
 b
 stats
-sftp
 mobile
 git
 files
@@ -199,6 +199,7 @@ uwcs
 update
 unugm
 ts
+training
 tmp
 test1
 temp
@@ -278,7 +279,6 @@ ubuntu
 tyk
 tw
 turn
-training
 tr
 toto
 top
@@ -865,6 +865,7 @@ gr
 gp2
 gongdan2
 gold2
+gold
 gm
 gloria
 gitdev

@@ -52,8 +52,8 @@ ns3
 mail2
 test
 www2
-ns4
 remote
+ns4
 cloud
 admin
 support
@@ -75,6 +75,7 @@ www1
 web
 vpn2
 shop
+sftp
 office
 mailhost
 mail3
@@ -83,7 +84,6 @@ email
 demo
 b
 stats
-sftp
 mobile
 git
 files
@@ -199,6 +199,7 @@ uwcs
 update
 unugm
 ts
+training
 tmp
 test1
 temp
@@ -278,7 +279,6 @@ ubuntu
 tyk
 tw
 turn
-training
 tr
 toto
 top
@@ -865,6 +865,7 @@ gr
 gp2
 gongdan2
 gold2
+gold
 gm
 gloria
 gitdev
@@ -3751,6 +3752,7 @@ uvpn
 uvhc-glpi
 ut-ongbenin
 utilities1
+utah
 userweb-old
 userweb
 usercenterdev
@@ -9899,6 +9901,7 @@ sirh
 sir-gawain
 sir-galahad
 sirenacorp
+sire2mri
 sir-bors
 sir-bedivere
 sipsfb
@@ -21457,6 +21460,7 @@ palms
 palmdale
 palmcoasttowncenter
 palmbeachgardens
+palm
 palladium
 palin
 paleoweb
@@ -31110,6 +31114,7 @@ meije-veeam
 meije-idrac
 meije.ctp
 megapoli
+megan
 meetup
 meet.sip
 meet.eic
@@ -33665,6 +33670,7 @@ joe
 jobs.enavajo
 jobsat
 job
+joan
 jo
 jnsobang
 jnfg
@@ -33678,6 +33684,7 @@ jlp63
 jlp2
 jlp1
 jldoc
+jlcameras
 jlba
 jkowtko-1
 jjmb
@@ -48420,6 +48427,7 @@ gorsh
 googlefffffffff128aac1
 goofyhost
 goodthingstobuy85
+goo
 gonm2
 gongdan
 gom-jabbar
@@ -48428,7 +48436,6 @@ goliath.mobile
 goliath.interne
 goldavenuegifts
 gold1
-gold
 gogo.int
 gofile
 gofannon
@@ -52021,6 +52028,7 @@ fftgemo
 fft
 ffnns
 ffmjc
+ffiwirewall
 ffh
 fff
 ffens
@@ -64368,6 +64376,7 @@ a1
 8ter
 89
 8500dn
+7term
 7gsoft
 7flr7
 7fl7
