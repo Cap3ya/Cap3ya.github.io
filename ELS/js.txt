@@ -1,5 +1,0 @@
-document.URL
-location.href
-Window.location
-document.location
-history.pushState({},"URL Rewrite Example","https://stackoverflow.com/example")
