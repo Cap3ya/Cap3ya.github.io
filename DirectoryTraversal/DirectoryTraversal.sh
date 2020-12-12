@@ -9,7 +9,7 @@ for translation in $(cat $translations)
 		for path in $(cat $paths)
 		do
 			data=$(echo $dns$path$file | sed $translation)
-			curl --silent --head $data | grep -E '\<200>\' > /dev/null \
+			curl --silent --head $data | grep -E '\<200\>' > /dev/null \
 			       && curl --inclue $dns$path$file 2> /dev/null
 		done
 	done
