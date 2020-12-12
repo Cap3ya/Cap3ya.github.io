@@ -1,17 +1,15 @@
 #!/bin/bash
-dns=$1
+dns="${1}"
 paths=paths.txt
-file=$2
+file="${2}"
 translations=translations.txt
 
 for translation in $(cat $translations)
 	do
 		for path in $(cat $paths)
 		do
-			data="--silent --head $dns$path$file"
-			curl $(echo $data | sed $translation) | tac | tac | grep -E '\\<200>\\' > /dev/null \
-			       && curl --inclue $dns$path$file 2> /dev/null
+			data=$(echo $dns$path$file | sed $translation)
+			curl --include $data |& grep -E '\<200\>' >/dev/null && curl --include $dns$path$file | less
 		done
 	done
-
 exit 0
