@@ -35,13 +35,13 @@ sql
 autodiscover
 cpanel
 x9
+webdisk
 wwww
 ww3
-webdisk
 cpcontacts
 cpcalendars
-wvw
 whm
+wvw
 ns
 vpn
 autoconfig
@@ -49,10 +49,10 @@ ipv4
 dev
 mysql
 ns3
-mail2
 test
-www2
+mail2
 remote
+www2
 ns4
 cloud
 admin
@@ -70,6 +70,7 @@ old
 ron
 portal
 gc._msdcs
+email
 crm
 www1
 web
@@ -80,7 +81,6 @@ office
 mailhost
 mail3
 lists
-email
 demo
 b
 stats
@@ -115,6 +115,7 @@ s621
 preprod
 ns.ttec
 ns01
+ns0
 media
 ldap
 help
@@ -133,7 +134,6 @@ us
 store
 services
 ntp
-ns0
 newsletter
 new
 net
@@ -145,6 +145,7 @@ listes
 jitsi
 helpdesk
 f
+download
 domaindnszones
 cwp
 boutique
@@ -153,6 +154,7 @@ a.mx
 wordpress
 web2
 video
+update
 team
 server
 secure2
@@ -168,7 +170,6 @@ mail4
 jr
 info
 go
-download
 dns3
 dashboard
 cp
@@ -196,7 +197,6 @@ w2
 vpn1
 v2
 uwcs
-update
 unugm
 ts
 training
@@ -372,6 +372,7 @@ http
 hr
 hosting2
 hg
+helium
 hal
 gp
 google
@@ -847,7 +848,6 @@ hs
 hp
 host
 horde
-helium
 haproxy2
 haproxy1
 haproxy
