@@ -2,14 +2,15 @@ www
 mail
 localhost
 webmail
-smtp
 ftp
+smtp
 pop
 ns1
-mx1
+wpad
 ns2
-sd
+mx1
 it
+sd
 hk
 rm
 pp
@@ -27,16 +28,15 @@ pc
 nd
 feed3
 fallback
-wpad
 imap
 cpanel
 webdisk
-pop3
 whm
-sql
 cpcontacts
 cpcalendars
+pop3
 autodiscover
+sql
 x9
 wwww
 ww3
@@ -51,69 +51,73 @@ mysql
 test
 mail2
 ns4
-www2
 remote
+www2
 cloud
 admin
 support
 secure
+blog
 old
+mx
 m
 intranet
 dns
-blog
 proxy
-mx
 wiki
 ss
 portal
+crm
 www1
+stats
 sftp
 ron
+lists
 email
-crm
 web
 vpn2
 shop
 office
 mailhost
 mail3
-lists
 git
 files
+dns2
 demo
 b
-stats
+ns5
 news
 mx2
 mobile
 gw
 extranet
 exchange
-dns2
 beta
+backup
 www3
 voip
 smtp2
 sip
-ns5
 home
 gitlab
 forestdnszones
 connect
-backup
 search
 ns0
 monitor
 mc
 firewall
+dns1
+av
 adfs
+vcenter
 store
 static
 spam
 s621
 preprod
 ns.ttec
+ns6
 ns01
 new
 my
@@ -121,22 +125,20 @@ media
 ldap
 help
 gateway
-dns1
+cwp
 citrix
 chat
 available
-av
 app
+api
 zeus
 wordpress
 web1
 visio
-vcenter
 us
 services
 pool.ntp
 ntp
-ns6
 newsletter
 net
 nc
@@ -148,9 +150,9 @@ helpdesk
 f
 download
 domaindnszones
-cwp
 cp
 boutique
+auth
 a.mx
 zm
 zabbix
@@ -163,12 +165,14 @@ staging
 sslvpn
 server
 secure2
+ns7
 ns20
 ns02
 nagios
 mx2.cs
 mx1.cs
 mt
+mssql
 ms
 mon
 mailadmin
@@ -177,20 +181,21 @@ jr
 info
 hosting
 go
+ftp2
 dns3
 dashboard
 bb1.mtq
 barracuda
 avo
-auth
 apps
-api
 xgm
+wwwi
 www.freenights
 www.freenight
 www.dev
 www.blog
 www4
+ww2
 ws
 wireless
 webmail2
@@ -226,20 +231,20 @@ rds
 qa
 pbx
 owncloud
+owa
 outlook
 orion
 open
+online
 oldmail
 odoo
 ntp2
 ns8
-ns7
 ns10
 nat
 nas
 mta2fr
 mta1fr
-mssql
 monitoring
 mobilereview
 master
@@ -256,11 +261,12 @@ hermes
 glpi
 fw1
 fw
-ftp2
 freenights
 freenight
 en
 d
+control
+cn
 cms
 cm
 cdn
@@ -276,8 +282,6 @@ ad
 zixvpm
 yab
 www.test
-wwwi
-ww2
 wp
 webserver
 web5
@@ -294,6 +298,7 @@ turn
 tr
 toto
 top
+tools
 tm
 time
 tigger
@@ -301,6 +306,7 @@ ticket
 thor
 testtest
 t
+syslog
 sync
 svn
 sv
@@ -309,7 +315,9 @@ stratus
 srv1
 sr
 solo
+smtp01
 sirius
+sharepoint
 sg
 service
 server1
@@ -332,10 +340,8 @@ photos
 phoenix
 ph
 pat
-owa
 outgoing
 out
-online
 oc
 nyec
 ny
@@ -348,6 +354,8 @@ newmail
 netflow
 nestor
 neo
+mx02
+mx01
 mta3fr
 mrtg
 mm
@@ -364,6 +372,7 @@ mail5
 loki
 login
 lms
+list
 linode
 library
 kp
@@ -395,12 +404,15 @@ ftp1
 fs
 forum
 forge
+et
 eip
 eden
 dsl
 drupal
 drive
 dr
+doc
+dns4
 dms
 develop
 dev2
@@ -411,7 +423,6 @@ da
 contacts
 com
 columbia
-cn
 clients
 cirrus
 cf
@@ -452,10 +463,12 @@ www.my
 www.mc
 www.m
 www.lr
+www.it
 www.id
 www.hr
 www.de
 www.corp
+www.cn
 wwwcf
 www.ar
 www.admin
@@ -504,7 +517,9 @@ voice
 vod
 vmserver
 vmreverse
+vm3
 visio3
+view
 videos
 vesta
 venus
@@ -534,7 +549,6 @@ tradecal
 trac
 tpsw8t6
 tp
-tools
 tj
 tickets
 ticketing
@@ -551,7 +565,6 @@ tdev
 tc
 t2
 t1
-syslog
 sysaid
 sva
 supp
@@ -578,7 +591,6 @@ software
 smvy.sip
 smtpout
 smtp1
-smtp01
 smail
 sm
 sk
@@ -588,7 +600,6 @@ site
 sip.ntp
 sipfed
 si
-sharepoint
 setup
 servicedesk
 security
@@ -616,6 +627,7 @@ roundcube
 robin
 review
 researchdelft
+research
 reports
 reporting
 reliant
@@ -662,6 +674,7 @@ planet
 pierre
 picccluster
 pic
+pi
 phplist
 php7
 phone
@@ -729,8 +742,6 @@ myhome
 mycluster
 mycloud
 mx3
-mx02
-mx01
 mx0
 multex
 msmtp
@@ -771,6 +782,7 @@ mars
 maraven
 maple
 manu
+mailtest
 mail.helpdesk
 mailgw
 mailer
@@ -785,7 +797,6 @@ lr
 lp1
 live
 listserv
-list
 linux2
 lgvop2
 lgvop1
@@ -797,6 +808,7 @@ lgvlagu
 lgvccop1
 lgvamy1
 leo
+legal
 legacy
 leet
 lee
@@ -819,6 +831,7 @@ ki
 kh
 kg
 k2
+k
 jwidell
 jstest
 joplin
@@ -882,6 +895,7 @@ gloria
 gitdev
 genesis
 ged
+gc
 gb
 gatekeeper
 ganymede
@@ -914,7 +928,6 @@ f5
 extdns2
 ex
 events
-et
 esx8
 estore
 esl
@@ -950,13 +963,11 @@ dongjak2
 dogbert
 documentation
 docs
-doc
 dnstest
 dnsadmin
 dns8
 dns6
 dns5
-dns4
 dmmdemo
 dmi
 dl
@@ -966,6 +977,7 @@ dir
 dimensions
 dimension
 diamond
+development
 developers
 dev1
 dev01
@@ -989,6 +1001,7 @@ csec.sip
 cs3
 cs2
 cs1
+cs
 crml.sip
 crashplan
 cpvpal
@@ -1019,7 +1032,6 @@ correo
 corpoven
 corp
 core
-control
 commune
 comm
 colo
@@ -1028,6 +1040,7 @@ cobalt2
 c.ns
 clubinfo
 clock
+client
 claris
 cisco
 cied
@@ -1078,11 +1091,13 @@ backup2
 babz
 azur
 az
+aw
 audi
 atom
 at
 asterisk
 asia
+as
 arthur
 ariel
 argos
@@ -1128,6 +1143,7 @@ zululu
 zulip
 zsk
 zs
+zr
 zqsd
 zpstore4
 zpstore3
@@ -1756,7 +1772,6 @@ www.jo
 www.jm
 www.je
 www.jabberwoc
-www.it
 www.is
 www.ir
 www.iq
@@ -1847,6 +1862,7 @@ www.edu
 www.editions
 www.ecole
 www.ec
+www.ead
 www.dz
 www.dsl
 www.dscj
@@ -1885,7 +1901,6 @@ www.com
 www.colby
 www.coinshoppe
 www.co
-www.cn
 www.cm
 wwwcloud
 www.cl
@@ -2059,6 +2074,9 @@ wrench
 wqo
 wqa2
 wqa
+wpsrv03
+wpsrv02
+wpsrv01
 wp7dev
 wp2
 wp001.int
@@ -2381,6 +2399,7 @@ webtemmos
 webstats
 webstage2
 webstage1
+websrv1
 websitesv2
 websites
 webservice051
@@ -2726,6 +2745,7 @@ webappdev
 webapp3
 webapp2
 webapp1
+webapp
 webanalysis
 webadmin
 web9
@@ -2758,6 +2778,10 @@ wavelength
 waustin
 watertownthousandislands
 watertown
+watch96
+watch62
+watch237
+watch134
 waswww3
 wassup
 wasserwaagen
@@ -2943,12 +2967,17 @@ vmbazimage
 vmadelonore
 vma
 vm4
-vm3
 vm1
+vldmail2
+vldmail1
+vldedgsrv1
+vldedgesrv1
 vkh01
 vkh0
 vjud.leschoux
 vjud.adf2i
+vixen1
+vixen
 vivaldi
 vitesse
 vitalysrdt
@@ -2989,6 +3018,7 @@ virtual6
 virtual5
 virtual4
 virtual3
+virt
 virla
 virginiabeachtowncenter
 virginiabeachoceanfront
@@ -3006,7 +3036,6 @@ vijeoconv
 vijeobras
 viewserver
 viewpointtouch
-view
 vietnam
 viennasouth
 vieetudiante
@@ -3085,6 +3114,7 @@ vceval
 vcentervm2
 vcentervm
 vcenter51
+vcenter1
 vcenter07
 vcenter02
 vcenter01
@@ -4550,6 +4580,7 @@ tupelo
 tunnel
 tunlibrary
 tunes
+tuneit
 tulsasouth
 tulsamidtown
 tulsabrokenarrow
@@ -4646,11 +4677,13 @@ traindb
 traincam
 traffic
 traefik.godel
+tradingtest
 tradeshows
 trader
 trade.marketplace
 tradelines
 tradecompliance
+trackit
 tracking
 tracker
 trachtenwelt
@@ -4760,6 +4793,7 @@ tms
 tmndev
 tmn
 tmcv
+tmail
 tm6
 tm4
 tm3
@@ -4882,6 +4916,7 @@ test.test
 testsw2
 test.ssl
 testsrv1
+test.soundsetting
 testshop
 testservices
 testserveur
@@ -4922,6 +4957,7 @@ teste1
 teste
 testdu80
 testdedu
+testcrm
 testcredit
 testconf
 testcoloc
@@ -5001,6 +5037,7 @@ telepre2
 telepre10
 telepre1
 telephone
+telenor
 telemundo
 telecpay
 tele
@@ -5112,6 +5149,7 @@ syslog4
 syslog3
 syslog2
 syslog1
+syscenconf
 sys3
 sys2020x
 sys2020
@@ -5451,6 +5489,7 @@ squid1vm
 sql3
 spyglassdschallenge
 spyglass
+spweb
 spwc
 spud
 spsecured
@@ -5616,6 +5655,7 @@ souscription
 sourceforgeng
 sourceforge
 source
+soundsetting
 sound
 soulpass
 soufflerie3
@@ -5669,6 +5709,7 @@ sntcreteil
 snpigrigri
 snpi
 snpespjj
+snowwhite
 snowfox
 snoopy3
 snoopy2
@@ -5979,6 +6020,7 @@ snesgrigri
 sneppy
 snepap
 snep
+sneezy
 snasubgrigri
 snasub
 snake
@@ -6003,6 +6045,8 @@ smtpin
 smtphk1
 smtphk
 smtp.helpdesk
+smtpgw1
+smtpgw0
 smtpgpe
 smtpextng
 smtpextag
@@ -6280,6 +6324,7 @@ silver2
 silver
 siimail
 siheung
+signup
 signin
 sige
 sig
@@ -6649,6 +6694,7 @@ sc4
 sc3
 sbpiapp
 sbi
+sbc
 sb
 sayweee
 sayhello
@@ -6685,6 +6731,7 @@ santana
 santafe
 santabarbaragoleta
 santaanasanjose
+santa
 sanswi8
 sanswi7
 sanswi6
@@ -6728,6 +6775,7 @@ sammul2
 sammul1
 sammul
 sammler
+samlidp
 samir227
 sam.int
 sami108
@@ -7092,6 +7140,7 @@ run
 rumiac
 ruimte
 rudubu
+rudolph
 ruby
 rubik
 ru
@@ -7416,7 +7465,6 @@ reserved1
 reserved
 researchtriangleparkrdu
 researchtrianglepark
-research
 rescm9254
 rescm9253
 rescm9252
@@ -10667,6 +10715,7 @@ prm
 prjcoralie
 privilege
 privateserver
+privat
 prism
 printerceppes
 printer3.ietf51
@@ -10710,6 +10759,7 @@ pre0
 prayer
 pravda
 pratt
+prancer
 pr
 pqs
 ppr
@@ -11152,6 +11202,7 @@ pms
 pmopftp
 pmopadboard
 pmkr
+pmg
 pmfilegrabber
 pmchamber
 pmbipformed
@@ -11243,6 +11294,7 @@ pithink
 pitetdb
 pitet
 pitchum
+pitchblack
 piscina50
 piscina
 pippin
@@ -11280,7 +11332,6 @@ pialab
 pia
 pi3
 pi2
-pi
 phxhwynrbcmc
 phxavondale
 phx1rrbwan002
@@ -11537,6 +11588,7 @@ pcportgim100wifi
 pcportgim100
 pcpcom30
 pconceptfr
+pcoipmc
 pcnvieville3
 pcnotteau
 pcnef
@@ -12677,6 +12729,7 @@ ossan
 oss
 osprey
 oslo
+osl1gnfw01
 osium
 osint
 oshkosh
@@ -12771,6 +12824,7 @@ openview
 opentheso5
 opentheso3
 opentheso
+opensource
 openshift
 openproject
 opennms
@@ -12815,6 +12869,7 @@ onduleur
 ondemandstg
 ondemand
 oncauseici
+onboarding
 on3kdp
 on
 omttest
@@ -12956,6 +13011,7 @@ nyc4
 nyc3
 nyc2
 nyc1
+nyc
 nxadmincesr
 nxa
 nwf.hosting
@@ -13033,6 +13089,7 @@ ns22
 ns21
 ns209887
 ns1.t
+ns1s
 ns1.r
 ns1.netexco
 ns1.nat
@@ -14054,6 +14111,7 @@ miram
 minzords
 minzord
 minuscule
+minty
 minneapolismaplegrove
 minneapolisedenprairie
 minneapolisdowntown
@@ -14139,6 +14197,7 @@ mex1rrbwan002
 mex1rrbwan001
 meviavm
 metz
+metro
 metrics.godel
 metour
 meteor
@@ -14209,6 +14268,7 @@ media.origin
 mediaesgis
 mediacensus
 mecloud
+mecha
 mecca
 mecaflux3
 mecaflux1
@@ -14427,7 +14487,7 @@ mailusa
 mail.us
 mail.transformon
 mailtiger
-mailtest
+mailtest.arachne
 mail.t
 mail.staging
 mail.staff
@@ -14749,6 +14809,7 @@ lithium
 lite
 litchi
 liststar
+listmaster
 listingimages
 listes.valence26
 liste
@@ -14877,7 +14938,6 @@ legrain
 legisconseils
 legendre
 legalsuite
-legal
 legacymail
 leetest1
 leesu
@@ -15011,6 +15071,7 @@ lab200
 lab2
 la17wpfg
 l2ol3
+l
 kzin
 kz
 kyoku
@@ -15018,6 +15079,7 @@ kyogucafe
 kyogu
 kyogoo
 kyla
+kyc
 ky
 kxwl
 kxc
@@ -15205,6 +15267,7 @@ karen
 karaouzene
 kappleisten
 kappie
+kappa
 kapa
 kantoor
 kansascitykansas
@@ -15227,7 +15290,6 @@ kajol
 kairos
 kaeell
 k8s
-k
 jychanel
 jwkang
 jwcart
@@ -15488,6 +15550,7 @@ istanbulgoldenhorn
 istanbulbeylikduzu
 istanbulataturkairport
 istanbulairport
+ispconfig
 isp2
 isp
 iso
@@ -16437,6 +16500,9 @@ iauthen
 iatchoumitcheva
 iaso
 iaserver
+iapwwwcom9
+iapwwwcom2
+iapwwwcom1
 ian
 iah
 i8
@@ -16503,6 +16569,7 @@ hscart
 hs2
 hs1
 hrs
+hrportal
 hrms.internals
 hris
 hrhelp
@@ -16596,6 +16663,7 @@ hospice
 horo
 hornet
 horizonrpg
+horizon
 hordearii
 hopla
 hope
@@ -16629,6 +16697,7 @@ holiver100
 holidaysnode
 holidays
 hohlraumduebel
+hoge2
 hoffmanestates
 hod
 hobbytest
@@ -16834,6 +16903,7 @@ hccdocs
 hc
 hbk
 hbcr
+hazelgrace
 hazard
 hays
 haymarketdowntown
@@ -16864,6 +16934,7 @@ hard.saba
 harare
 haproxy22
 haproxy12
+happy
 hansei77
 hansei
 hanoverlebanon
@@ -16977,6 +17048,8 @@ gs108t1
 gs108pe1
 gs108e1
 gs
+grumpy1
+grumpy
 grqygz
 grq
 groupware20
@@ -17240,6 +17313,8 @@ genma
 gengisk
 genetics
 genesys
+genericweb2
+genericweb1
 general.rippet
 generalcounsel
 generalclaim
@@ -17262,7 +17337,6 @@ gdt
 gdb
 gd
 gce
-gc
 gbhcie
 gbenjamin
 gbas
@@ -19653,8 +19727,10 @@ ftp.office
 ftp.mtnhardware
 ftp.mojaverivervalleymuseum
 ftp.mojavehistory
+ftp.it
 ftp.ftp
 ftp.desertgazette
+ftp.cn
 ftp.arms
 ftp.angelescrestscenichighway
 ftp.analytics
@@ -20240,6 +20316,7 @@ extapp01
 exseekpi
 export
 explorer
+expiry
 expert.prod
 expertiz
 expert.beta
@@ -20275,6 +20352,7 @@ everett
 everest
 events.ramah
 eventsoft
+eventsign
 eventengine
 event
 eve02
@@ -20746,6 +20824,7 @@ eam
 eagle
 eager
 eagan
+ead
 ea2
 ea
 e7ipam
@@ -20922,6 +21001,7 @@ doppler
 doomas2
 dons
 donnieb
+donner
 donldsl
 dongtan
 dongjak1
@@ -20968,6 +21048,7 @@ docushare
 documents.inteliphy
 documentations
 docsplit
+docportal
 dockstationasus
 docker1
 dock
@@ -21403,7 +21484,7 @@ devices
 devfiles
 devenscommon
 developmentsupport
-development
+development1
 developer
 develope3
 develope2
@@ -21411,6 +21492,7 @@ develope
 develop2
 develop1
 devel
+devdoc
 devdm
 devdb
 devboutique
@@ -21468,6 +21550,7 @@ denverdowntown
 denvercherrycreek
 denverarvada
 denverairport
+denver
 denton
 denisonshermanattexomaeventcenter
 denclout
@@ -21596,6 +21679,7 @@ datacenter
 datac
 data2
 data1
+dasher
 dashboard2
 dash
 dasco
@@ -21621,6 +21705,7 @@ dancingeaglewf
 dancingeagleservices.cms
 dancingeaglecmsqa
 dancingeagle
+dancer
 danceparade
 danbury
 dan
@@ -21748,6 +21833,7 @@ customportaldev
 customers
 cusco
 curry
+cupid
 cupertino
 cup
 cumulus4
@@ -21795,12 +21881,13 @@ csg
 csf066
 cse
 csctempo
+cscap
+csafm
 cs12
 cs009
 cs002
 cs001
 cs0
-cs
 crystal
 crypto
 crypt
@@ -21822,6 +21909,7 @@ croc
 crmplay
 crmdev
 crmcs
+crmafm
 crm9
 crm6
 cristal.icp
@@ -22415,6 +22503,7 @@ commerce.enavajo
 comments
 commande
 comlib
+comet
 combatviking
 columbusuniversityarea
 columbuspolaris
@@ -22538,7 +22627,6 @@ clm
 cliftonpark
 clientftp
 client4
-client
 clickfrom.origin
 clickfrom.intl
 click
@@ -22604,6 +22692,7 @@ cimesvm
 cilvm
 ciems
 cid
+cicg
 ciamde
 ci
 chypre
@@ -22935,6 +23024,7 @@ captulipe1
 captulipe
 captcha01
 capqual
+capital
 capecod
 canyonlake
 canope
@@ -22993,6 +23083,10 @@ caius
 caisse3205
 caisse2205
 caisse1205
+cairne2a
+cairne2
+cairne1
+cairne
 caire
 caiman
 caillouxverts
@@ -23254,6 +23348,7 @@ boisrame
 boisespectrum
 boiseeagle
 boisedowntown
+boise
 bohrerdiscount
 bogotaairport
 boestock
@@ -23548,6 +23643,7 @@ basrouter
 basley
 basilic
 basiccoreys
+bashful
 baseloadftp
 baseball
 base
@@ -23629,8 +23725,11 @@ badger
 badana
 baco
 backups
+backup65
+backup64
 backup3
 backup2.sks
+backup1
 backup04
 backup03
 backup02
@@ -23694,7 +23793,6 @@ awbbatamtrioke
 awbbatam
 aware
 awadrive
-aw
 avn
 avlis
 avitzur
@@ -23703,6 +23801,7 @@ avirasmc
 aventurier
 avenger2
 av.eic
+avedge
 avavendorsdev
 avasut
 autorisk
@@ -23842,6 +23941,7 @@ austinnorth
 austindowntownconventioncenter
 austindowntown
 austinairport
+austin
 auryon
 aurora
 aurion
@@ -23960,7 +24060,6 @@ asaln
 as5300
 as400
 as200n.int
-as
 arwen023
 arvenlife
 arvenhost
@@ -23968,6 +24067,7 @@ artylbureau
 artsetbois
 artist
 artigan
+articlecontent
 arthuruberti
 arris02
 arris01
@@ -24018,6 +24118,7 @@ arcgis02
 arcgis01
 arcgis
 arcadia
+arc
 arbeitspullover
 arbeitshemden
 araymond
@@ -24031,6 +24132,7 @@ aptab
 apt
 apsswmstg
 apsswm
+appweb01
 appvillage1
 app.upviral
 appsstg
@@ -24047,6 +24149,7 @@ applyapd
 appletv
 appletonkimberly
 apple
+appapi
 app2
 app02
 app01
@@ -24098,6 +24201,7 @@ antin3
 antin2
 antin1
 antilles
+anticshealth
 antics
 anticloud
 anthoclaireperso
@@ -24143,6 +24247,7 @@ andrross
 anderson
 anchovy
 anchorage
+anc
 anb
 anarchabox
 anaphase
@@ -24183,6 +24288,8 @@ americas
 amdm
 amdatest1
 amdakernel
+amcex
+amc
 ambre
 ambercareservices.cms
 ambercareanalytics
@@ -24213,6 +24320,7 @@ alsaceferroviaire
 alsace
 als2
 als
+alpinetuneitapp
 alpha.hq
 alphagroup
 alphad
@@ -24375,6 +24483,7 @@ admin.ansu
 admin1
 adhesion
 adhaesivkleber
+adg
 adfsbernco
 adfs01
 adf2is
@@ -24402,6 +24511,7 @@ acs01
 acoretudescloud
 acollinswindows
 acid
+aci
 acher
 acgw
 ace
@@ -24422,6 +24532,7 @@ access1
 access
 accelerator
 acc55db
+acc
 acataco
 academi
 acacia

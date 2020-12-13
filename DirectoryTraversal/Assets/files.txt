@@ -1,3 +1,4 @@
+boot.ini
 etc/passwd
 etc/shadow
 etc/aliases
