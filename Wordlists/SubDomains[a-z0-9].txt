@@ -37,8 +37,8 @@ autodiscover
 imap
 x9
 ns
-wwww
 autoconfig
+wwww
 ww3
 wvw
 pop3
@@ -58,8 +58,8 @@ support
 secure
 old
 m
-dns
 blog
+dns
 cloud
 intranet
 dns2
@@ -77,11 +77,11 @@ crm
 news
 home
 beta
+vpn2
 lists
 dns1
 demo
 www1
-vpn2
 store
 ss
 sip
@@ -90,22 +90,22 @@ mailhost
 mail3
 git
 connect
+chat
 voip
 ns5
 help
-chat
 staging
 shop
 ron
 office
 mobile
+gateway
 extranet
 exchange
+download
 backup
 gw
 gitlab
-gateway
-download
 b
 av
 api
@@ -118,17 +118,18 @@ ns0
 my
 mssql
 monitor
+meet
 media
 mailadmin
 spam
 server
 ns6
-meet
 mc
 ftp2
 forestdnszones
 firewall
 dns3
+cwp
 cp
 web2
 vcenter
@@ -140,11 +141,11 @@ nagios
 mail1
 lab
 helpdesk
-cwp
 citrix
 barracuda
 apps
 app
+a.mx
 zeus
 zabbix
 wwwi
@@ -202,7 +203,6 @@ domaindnszones
 dev2
 dashboard
 audio
-a.mx
 ad
 zm
 wmail
@@ -244,6 +244,7 @@ jira
 images
 hermes
 go
+gate
 gallery
 fw
 fr
@@ -355,7 +356,6 @@ hr
 host
 google
 glpi
-gate
 galileo
 fw1
 fs
@@ -429,6 +429,7 @@ ssh
 srv1
 spider
 solo
+software
 smtp01
 sitebuilder
 sirius
@@ -660,6 +661,7 @@ whm.admin
 wg
 welcome
 wechat
+website
 webshop
 webs
 webmail.zixvpm
@@ -803,7 +805,6 @@ sonic
 sondage
 solaris
 sogo
-software
 smvy.sip
 smtpout
 smtp1
@@ -2089,6 +2090,7 @@ www.sheltervalleysw
 www.sheilar
 www.shareeverywhere
 www.sh
+www.sewingonline
 www.service
 www.sellsheretoo
 www.screen
@@ -2142,6 +2144,7 @@ www.polyester
 www.pn
 www.pmfilegrabber
 www.pmchamber
+www.pleasant
 www.plan
 www.pl
 www.pk
@@ -3143,7 +3146,6 @@ webstage1
 websrv1
 websitesv2
 websites
-website
 webservice051
 webservice001
 webservice
@@ -4067,6 +4069,7 @@ vettes
 vet
 vesgx
 vesg
+very
 verticle
 vertias
 vertec
@@ -6890,6 +6893,7 @@ songok
 song
 sonar
 sommerkappen
+something
 solveig
 solution
 solr
@@ -7457,6 +7461,7 @@ slinky
 slimwo
 slimw
 slimd1
+sleep
 sldvpn
 slavflpstage
 slavflpsc0
@@ -8433,6 +8438,8 @@ russian
 ruronzier20
 ruralconf2014
 ruqing
+runic2
+runic
 run
 rumiac
 ruimte
@@ -12389,6 +12396,7 @@ poseidon01
 poseidon00
 portzek
 portyguerrier
+portus
 portstlucie
 portstesting
 portsmouthsuffolk
@@ -12767,6 +12775,7 @@ plesk3
 plesk1
 pleroma
 pleiades
+pleasant
 plcart
 playlist
 player
@@ -12804,6 +12813,7 @@ pixdmz
 pixadmin
 pix
 piwikvm
+piwik
 piwi
 piware.ns
 piwai44
@@ -14655,6 +14665,7 @@ nucleus
 nuclear
 nubes
 nube
+nuala
 nuages
 nuagemra
 nuage
@@ -15283,6 +15294,7 @@ nekoni
 nek
 negamaluca
 nedi
+necropolis
 nebus
 ndtablet
 ndsamltest
@@ -15607,6 +15619,7 @@ mot517
 mospo
 moscownewriga
 moscowkrasnoselskaya
+mosaic
 morn
 morini
 morgothhome
@@ -16512,6 +16525,7 @@ louis
 louie
 lotus
 lothringer13florida
+lost
 losgarcia
 lose32
 losangelesredondobeach
@@ -17281,6 +17295,7 @@ jjmb
 jjdomingues
 jj
 jirafeau
+jira2
 jimtest
 jimra
 jimmyheitz
@@ -19073,6 +19088,9 @@ hete
 hertzwallet
 hershey
 herrturbo
+heroot7
+heroot6
+heroot4
 hermesadsl
 herefromthepast
 hercule
@@ -19156,6 +19174,7 @@ harmless
 harlingenconventioncenter
 hard.saba
 hard
+harbor
 harare
 haproxy22
 haproxy12
@@ -19513,6 +19532,7 @@ gongdan
 golshr
 goliath.mobile
 goliath.interne
+goldie
 golden
 goldavenuegifts
 gold1
@@ -19763,6 +19783,7 @@ gasbetonduebel
 gasaelka
 garside
 garland
+gargoyle
 gardeno
 garden
 gardedb
@@ -23102,10 +23123,12 @@ energence
 enee
 endpoint1
 endplay
+endless
 endeavor
 encryptapibasiccoreys
 encoderflash
 encke
+enchanted
 enattendant
 enae
 enadmin
@@ -23652,6 +23675,7 @@ docs.ext
 docportal
 dockstationasus
 docker1
+docker
 dock
 doccano
 docadmin
@@ -24292,6 +24316,7 @@ deluise
 delta
 delphlo
 delphihep
+delphi
 dellux
 dellremi
 dellphine
@@ -26369,6 +26394,7 @@ cairne2
 cairne1
 cairne
 caire
+cain
 caiman
 caillouxverts
 cagiva
@@ -26975,6 +27001,7 @@ batiste
 bataillec
 bastion
 bastient
+bast
 bass
 basrouter
 basley
@@ -27170,6 +27197,7 @@ axcalome
 awuat
 awswin2
 awsubuntu1
+awstats
 awsmonitor
 awsmmmonitor
 awsldap86
@@ -28229,6 +28257,7 @@ abhd
 aberdeencitycentre
 aberdeen
 abelisong
+abel
 abeilles
 abdeckfolien
 abbacart
