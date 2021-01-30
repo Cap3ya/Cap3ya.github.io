@@ -1,0 +1,26 @@
+# THE C PROGRAMMING LANGUAGE  
+
+# PROGRAMMING FROM THE GROUND UP
+
+### Units
+	Bite: 0 or 1
+	Byte: 1=8bits=255, 2=65thousands, 3=6billions
+	Word: 1=4Bytes
+
+### Data Accessing Methods
+	Immediate mode
+		x
+	Register Addressing mode
+		x <- Register
+	Direct Addressing mode
+		x <- Memory Address
+	Indexed Addressing mode
+		x <- Memory Address + Index Register x Multiplier
+	Indirect Addressing mode
+		x <- Pointer <- Register
+	Base Pointer Addressing mode
+		x <- Memory Address + Index Register <- Register
+
+? Fetch Execute Cycle
+
+## First Programs
