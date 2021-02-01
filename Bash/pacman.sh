@@ -25,8 +25,7 @@ declare -a array=("Check Arch News" 		"firefox https://archlinux.org/news"
 		"Remove Orphans + Files"	"sudo pacman -Rns $(pacman -Qttdq)"
 		"Update Man Pages" 		"sudo mandb 2> /dev/null | tail --lines=4"
 		"Export Explicits Installs" 	"sudo pacman -Qqe > $feip" 
-		"Upgrade Git Repositories" 	"find $dgit -maxdepth 1 -mindepth 1 -type d -exec bash -c 'echo {}; cd {} && git pull' \;"
-		"Open Log Files" 		"less $flog")
+		"Upgrade Git Repositories" 	"find $dgit -maxdepth 1 -mindepth 1 -type d -exec bash -c 'echo {}; cd {} && git pull' \;")
 ##LENGTH
 array_length=${#array[@]}
 

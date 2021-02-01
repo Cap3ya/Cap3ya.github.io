@@ -1,0 +1,60 @@
+#! PROGRAMMING FROM THE GROUND UP
+
+### Units
+	Bite: 0 or 1
+	Byte: 1=8bits=255, 2=65thousands, 3=6billions
+	Word: 1=4Bytes
+
+### Data Accessing Methods
+	Immediate mode
+		x
+	Register Addressing mode
+		x <- Register
+	Direct Addressing mode
+		x <- Memory Address
+	Indexed Addressing mode
+		x <- Memory Address + Index Register x Multiplier
+	Indirect Addressing mode
+		x <- Pointer <- Register
+	Base Pointer Addressing mode
+		x <- Memory Address + Index Register <- Register
+??? Fetch Execute Cycle
+
+## First Programs
+
+#! The C Programming Language
+
+#! The C++ Programming Language
+
+#! Programming Python
+
+#! The Go Programming Language
+
+#! Structure and Interpretation of Computer Programs
+
+#! Computer Systems: A Programmer's Perspective
+
+#! Introduction to Algorithm Design
+
+#! Else 
+	Programming 
+		Write, test and debug open source software
+		Python, C, C++, (Perl), Lisp, (Java), Go 
+		Break complex into easy 
+		From concepts to code 
+		!! Read & Write lots of code
+		Learn multiple paradigms 
+		Sketch on paper 
+	Computer Science 
+		Data Structure & Algorithms
+		Databases
+		Networking 
+	Unix
+	Containers
+	Cloud Platform
+1. Learn to Code 
+2. Build your portfolio with projects, contribution
+3. Get your 1st programming job or internship
+4. Learn Data Structures and Algorithms
+5. Prepare for Coding interviews
+6. Networking and Application
