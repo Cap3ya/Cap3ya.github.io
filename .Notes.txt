@@ -28,13 +28,11 @@
 
 #! Programming Python
 
-#! The Go Programming Language
-
 #! Structure and Interpretation of Computer Programs
 
 #! Computer Systems: A Programmer's Perspective
 
-#! Introduction to Algorithm Design
+#! The Algorithm Design Manual
 
 #! Else 
 	Programming 
